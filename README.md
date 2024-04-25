@@ -1,3 +1,4 @@
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 <h1>Challenger Conversor de Monedas</h1>
 <p>Desafío de consumo de API de ExchangeRate</p>
 Menu realizado
