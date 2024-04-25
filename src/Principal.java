@@ -100,21 +100,6 @@ public class Principal {
             if (opcion == 7){
                 break;
             }
-
-
         }
-
-
-
-
-        /*System.out.println("Escriba la moneda base: ");
-        var base = lectura.nextLine();
-        System.out.println("Escriba la moneda a convertir: ");
-        var target = lectura.nextLine();
-        Moneda moneda = consulta.buscaMoneda(base, target);
-        System.out.println("Escriba el valor en la moneda que eligio");
-        var valor = Integer.valueOf(lectura.nextLine());
-        var calculo = valor*moneda.conversion_rate();
-        System.out.println("Valor convertido es " + calculo + " " + moneda.target_code());*/
     }
 }
